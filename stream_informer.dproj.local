@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010.06.24 11:31:23.825.pas,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer\MainForm.pas</Transaction>
+    <Transaction>2010.06.24 11:31:23.825.dfm,C:\Users\MyIE\Documents\RAD Studio\Projects\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer\MainForm.dfm</Transaction>
+    <Transaction>2010.06.24 11:32:39.153.dproj,C:\Users\MyIE\Documents\RAD Studio\Projects\Project1.dproj=D:\Programming\delfi_2010\__sc2tv_informer\stream_informer.dproj</Transaction>
+    <Transaction>2010.06.24 11:38:11.167.pas,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer\ScoreForm.pas</Transaction>
+    <Transaction>2010.06.24 11:38:11.167.dfm,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer\ScoreForm.dfm</Transaction>
+    <Transaction>2010.06.24 11:39:04.786.pas,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer\CommentatorsForm.pas</Transaction>
+    <Transaction>2010.06.24 11:39:04.786.dfm,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer\CommentatorsForm.dfm</Transaction>
+    <Transaction>2010.06.24 11:39:28.199.pas,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer\CopyForm.pas</Transaction>
+    <Transaction>2010.06.24 11:39:28.199.dfm,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer\CopyForm.dfm</Transaction>
+    <Transaction>2010.06.24 17:46:34.850.pas,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.pas=D:\Programming\delfi_2010\__sc2tv_informer\DinamicForm.pas</Transaction>
+    <Transaction>2010.06.24 17:46:34.850.dfm,D:\Programming\delfi_2010\__sc2tv_informer\Unit1.dfm=D:\Programming\delfi_2010\__sc2tv_informer\DinamicForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
